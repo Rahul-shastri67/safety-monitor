@@ -128,7 +128,7 @@ screenshots/alerts.png
 
 **Rahul Shastri**
 
-GitHub:[ https://github.com/yourusername](https://github.com/Rahul-shastri67)
+GitHub:[ https://github.com/Rahul-shastri67](https://github.com/Rahul-shastri67)
 
 ---
 
